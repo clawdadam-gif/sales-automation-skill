@@ -1,0 +1,34 @@
+{
+  "name": "sales-automation",
+  "version": "1.0.0",
+  "description": "Automated sales workflow for lead qualification, routing, and follow-up management. Ideal for trades, home services, and small businesses.",
+  "author": "Jon Dipilato <dipilatoautomations@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "automation",
+    "leads",
+    "qualification",
+    "routing",
+    "follow-up",
+    "trades",
+    "home-services",
+    "business"
+  ],
+  "clawdbot": {
+    "skill": true,
+    "category": "business",
+    "trigger_phrases": [
+      "sales workflow",
+      "lead qualification",
+      "lead routing",
+      "follow-up automation",
+      "sales automation",
+      "inbound leads"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jondipilato/sales-automation-skill"
+  }
+}
